@@ -1,0 +1,45 @@
+body{
+   background-image: url(../img/corazoncito.jpg);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: #FFFFFF;
+}
+.separator{
+  background-image: url(../img/separador.jpg);
+  background-repeat: no-repeat;
+  background-position: center left;
+  height: 30px;
+  width: 100%;
+}
+.jumbotron{
+  background-image: url(../img/corazon.jpg);
+  background-position: center center;
+  background-size: contain;
+  line-height: 7;
+  color: #fff !important;
+}
+.galeria{
+  border: 10px solid #4B5CAF;
+  padding-top: 15px;
+  margin-bottom: 20px;
+}
+.galeria img{
+  height: 480px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.carousel-indicators li{
+  background: #000;
+}
+.carousel-control.left,
+.carousel-control.right{
+  background: none;
+}
+.carousel-indicators .active{
+  background: #4B5CAF;
+}
+.carousel-indicators{
+  bottom: -15px;
+}

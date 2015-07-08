@@ -1,0 +1,84 @@
+﻿/* ============================================================================================== 
+This copyright notice must be kept untouched in the stylesheet at all times.
+The original version of this stylesheet and the associated (x)html 
+is available at http://www.script-tutorials.com/responsive-website-using-bootstrap/
+Copyright (c) Script Tutorials. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
+================================================================================================= */
+
+/* customized carousel */
+
+
+body{
+  background-image: url(../img/forever.jpg);
+    background-repeat: no-repeat;
+    /*-webkit-background-size: 100% 100%;*/
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: #FFFFFF;
+  
+}
+
+.navbar-inverse .navbar-brand {
+color: #00FF80;
+}
+
+.carousel {
+    height: 450px;
+    margin-bottom: 40px;
+      background-attachment: fixed;
+}
+.carousel-caption {
+    z-index: 10;
+}
+.carousel .item {
+   background-image: url(../img/forever.jpg);
+    background-repeat: no-repeat; /* cuando no kiero repetir la imagen tanto en x como en y*/
+    -webkit-background-size: cover; /*para qu te autoajuste la imagen no importa el tamaño de la imagen */
+    background-size: cover;/*  */
+    background-position: center top; /* posicion de fondo*/
+    background-attachment: fixed; /* fijacion de imagen*/
+    color: #FFFFFF;
+
+    height: 450px;
+}
+
+.img-thumbnail {
+	
+
+display: inline-block;
+max-height: 100%;
+max-width: 40%;
+padding: 5px;
+
+line-height: 1.428571429;
+border: 1px solid #ddd;
+border-radius: 4px;
+   background-attachment: fixed;
+}
+
+.jumbotron{
+  background-image: url(../img/fondo3.jpg);
+  background-position: center center;
+  background-size: contain;
+  line-height:15 15;
+  color: #0000ff!important;
+}
+
+h1
+{
+color:#00ff00;
+text-align: center;
+}
+
+h2
+{
+color:#04c3f7;
+
+}
+
+h3
+{
+color:#0000ff;
+
+}
