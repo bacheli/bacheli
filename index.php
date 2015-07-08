@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="author" content="Script Tutorials" />
   <meta name="description" content="Responsive Websites Using BootStrap - demo page">
-  <title>De Bacheli Para Leydi</title>
+  <title>De Bacheli Para xxxxx</title>
   <!-- Bootstrap -->
   <link href="libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="libs/css/animate.min.css" rel="stylesheet">
@@ -28,7 +28,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-      <a class="navbar-brand animated rotateInDownLeft" href="#">Bacheli</a>
+      <a class="navbar-brand animated rotateInDownLeft" href="#">Con cariño</a>
     </div>
   
     <div class="collapse navbar-collapse" id="b-menu-1">
@@ -38,15 +38,13 @@
         <li><a href="#">Te Kiero</a></li>
         <li><a href="#">Te Extraño</a></li>
         <li><a href="#">Te Amo</a></li>
-        <li><a href="#">Mi Bebita</a></li>
-        <li><a href="#">Gatita</a></li>
+        <li><a href="#">Bebita</a></li>
+        
 
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class=""></span><b class="caret"></b></a>
            <ul class="dropdown-menu">
-                <li><a href="#">curriculum</a></li>
-                <li><a href="#">recuerdos</a></li>
-                <li><a href="#">familia</a></li>
+                
 
                 <li><a href="https://www.facebook.com/" target="_blank"><img alt="siguenos en facebook" height="32" src="img/face.png" title="siguenos en facebook" width="32" /></a></li>
                 <li> <a href="https://twitter.com/" target="_blank"><img alt="siguenos en Twitter" height="32" src="img/Twitter+NEW.png" title="siguenos en Twitter" width="32" /></a></li>
@@ -64,7 +62,7 @@
   <div class="jumbotron animated zoomIn">
     <div class="container text-center">
       <marquee behavior="scroll">
-          <h1> CON CARIÑO PARA MI MOCHI </h1>
+          <h1> CON CARIÑO PARA LA ENFERMERITA MAS LINDA DE CHICAYO  </h1>
       </marquee>
      
     </div>
@@ -83,30 +81,30 @@
     <div class="item active">
       <div class="row animated zoomIn">
         <div class="col-sm-6">
-         <img src="img/bebe.jpg" alt="Leidy" class="img-thumbnail">
+         <img src="img/rosa1.jpg" alt="Leidy" class="img-thumbnail">
         </div>
         <div class="col-sm-6">
-         <img src="img/leidy.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
+         <img src="img/rosa2.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
         </div>
       </div>
     </div>
     <div class="item">
       <div class="row animated zoomIn">
         <div class="col-sm-6">
-         <img src="img/leydi.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
+         <img src="img/rosa3.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
         </div>
         <div class="col-sm-6">
-         <img src="img/2.jpg" alt="Leidy" class="img-thumbnail">
+         <img src="img/rosa4.jpg" alt="Leidy" class="img-thumbnail">
         </div>
       </div>
     </div>
     <div class="item">
       <div class="row animated zoomIn ">
         <div class="col-sm-6">
-         <img src="img/1.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
+         <img src="img/rosa5.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
         </div>
         <div class="col-sm-6">
-         <img src="img/preciosa.jpg" alt="Leidy" class="img-thumbnail">
+         <img src="img/rosa6.jpg" alt="Leidy" class="img-thumbnail">
         </div>
       </div>
     </div>
@@ -168,7 +166,7 @@
 <footer>
   <div class="container">
     <br><hr>
-    <h2 class="text-center">♥♥♥ TE KIERO ♥♥♥ AUNQUE SEAS UNA ODIOSA MI BEBE ♥♥</h2>
+    <h2 class="text-center">♥♥♥ TE KIERO ♥♥♥ AUNQUE SEAS FEITA ♥♥</h2>
     <br>
   </div>
 </footer>
