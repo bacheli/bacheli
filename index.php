@@ -157,7 +157,8 @@
     <div class="separator"></div>
     <h2>CON AMOR ♥</h2>
     <div class="embed-responsive embed-responsive-16by9">
-      <video class="embed-responsive-item" width="560" height="315" src="media/Leidyteamo.mp4" controls preload></video>
+      <!-- <video class="embed-responsive-item" width="560" height="315" src="media/Leidyteamo.mp4" controls preload></video>-->
+      <iframe class="embed-responsive-item" width="420" height="315" src="https://www.youtube.com/embed/pAQp_y6nz-M" frameborder="0" allowfullscreen></iframe>
       
     </div>
   </article>
