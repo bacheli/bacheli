@@ -81,30 +81,30 @@
     <div class="item active">
       <div class="row animated zoomIn">
         <div class="col-sm-6">
-         <img src="img/rosa1.jpg" alt="Leidy" class="img-thumbnail">
+         <img src="img/rosa1.jpg" alt="imagenes" class="img-thumbnail">
         </div>
         <div class="col-sm-6">
-         <img src="img/rosa2.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
+         <img src="img/rosa2.jpg" alt="imagenes" class="img-thumbnail hidden-xs">
         </div>
       </div>
     </div>
     <div class="item">
       <div class="row animated zoomIn">
         <div class="col-sm-6">
-         <img src="img/rosa3.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
+         <img src="img/rosa3.jpg" alt="imagenes" class="img-thumbnail hidden-xs">
         </div>
         <div class="col-sm-6">
-         <img src="img/rosa4.jpg" alt="Leidy" class="img-thumbnail">
+         <img src="img/rosa4.jpg" alt="imagenes" class="img-thumbnail">
         </div>
       </div>
     </div>
     <div class="item">
       <div class="row animated zoomIn ">
         <div class="col-sm-6">
-         <img src="img/rosa5.jpg" alt="Leidy" class="img-thumbnail hidden-xs">
+         <img src="img/rosa5.jpg" alt="imagenes" class="img-thumbnail hidden-xs">
         </div>
         <div class="col-sm-6">
-         <img src="img/rosa6.jpg" alt="Leidy" class="img-thumbnail">
+         <img src="img/rosa6.jpg" alt="imagenes" class="img-thumbnail">
         </div>
       </div>
     </div>
@@ -155,7 +155,7 @@
     <div class="separator"></div>
     <h2>CON AMOR ♥</h2>
     <div class="embed-responsive embed-responsive-16by9">
-      <!-- <video class="embed-responsive-item" width="560" height="315" src="media/Leidyteamo.mp4" controls preload></video>-->
+      <!-- <video class="embed-responsive-item" width="560" height="315" src="media/imagenesteamo.mp4" controls preload></video>-->
       <iframe class="embed-responsive-item" width="420" height="315" src="https://www.youtube.com/embed/pAQp_y6nz-M" frameborder="0" allowfullscreen></iframe>
       
     </div>
