@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="author" content="Script Tutorials" />
   <meta name="description" content="Responsive Websites Using BootStrap - demo page">
-  <title>De Bacheli Para xxxxx</title>
+  <title>De Bacheli Para Rosita</title>
   <!-- Bootstrap -->
   <link href="libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="libs/css/animate.min.css" rel="stylesheet">
